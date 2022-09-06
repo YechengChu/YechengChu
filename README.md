@@ -21,7 +21,7 @@
 </h1>
 
 <p align="center">
-  💻 MSc student at University of Manchester 📚 <br><br/>
+  💻 MSc student at the University of Manchester 📚 <br><br/>
   
   <a href="mailto:szcyc002@163.com">
     <img src="icons/icons8-mail.svg" width=55 height=55> 
@@ -93,6 +93,8 @@
   🎉 Credit
 </h1>
 
+Powered by [Anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
 This README file is adapted from [Weilue's README](https://github.com/Redcxx/Redcxx)
 
-Icons are download from [icons8](https://icons8.com)
+Icons are downloaded from [icons8](https://icons8.com)
