@@ -18,23 +18,23 @@
 
 <p align="center">
   💻 MSc student at University of Manchester 📚 <br><br/>
+  <img src="icons/icons8-mail.svg" width=30 height=30> 
   <a href="mailto:szcyc002@163.com">
-    <img src="icons/icons8-mail.svg" width=25 height=25> 
     szcyc002@163.com
-    <img src="icons/icons8-mail.svg" width=25 height=25>
   </a>
+  <img src="icons/icons8-mail.svg" width=30 height=30> 
   <br></br>
+  <img src="icons/icons8-twitter.svg" width=30 height=30>
   <a href="https://twitter.com/Darren_Cyc">
-    <img src="icons/icons8-twitter.svg" width=25 height=25>
     @Darren_Cyc
-    <img src="icons/icons8-twitter.svg" width=25 height=25>
   </a>
+  <img src="icons/icons8-twitter.svg" width=30 height=30>
   <br></br>
+  <img src="icons/icons8-instagram.svg" width=30 height=30>
   <a href="https://instagram.com/wbszhc?igshid=YmMyMTA2M2Y=">
-    <img src="icons/icons8-instagram.svg" width=25 height=25>
     @wbszhc
-    <img src="icons/icons8-instagram.svg" width=25 height=25>
   </a>
+  <img src="icons/icons8-instagram.svg" width=30 height=30>
 </p>
 
 
