@@ -20,19 +20,19 @@
   💻 MSc student at University of Manchester 📚 <br><br/>
   
   <a href="mailto:szcyc002@163.com">
-    <img src="icons/icons8-mail.svg" width=50 height=50> 
+    <img src="icons/icons8-mail.svg" width=55 height=55> 
   </a>
   
   <a href="https://www.linkedin.com/in/yecheng-chu-667013139">
-    <img src="icons/icons8-linkedin.svg" width=50 height=50>
+    <img src="icons/icons8-linkedin.svg" width=55 height=55>
   </a>
 
   <a href="https://twitter.com/Darren_Cyc">
-    <img src="icons/icons8-twitter.svg" width=50 height=50>
+    <img src="icons/icons8-twitter.svg" width=55 height=55>
   </a>
 
   <a href="https://instagram.com/wbszhc?igshid=YmMyMTA2M2Y=">
-    <img src="icons/icons8-instagram.svg" width=50 height=50>
+    <img src="icons/icons8-instagram.svg" width=55 height=55>
   </a>
 
 </p>
@@ -57,12 +57,12 @@
 </div>
 
 <div align="center">
-  <a href="https://jupyter.org"><img src="icons/icons8-jupyter.svg" width=48 height=65></a>
-  <a href="https://github.com"><img src="icons/icons8-github.svg" width=48 height=65></a>
+  <a href="https://jupyter.org"><img src="icons/icons8-jupyter.svg" width=65 height=65></a>
+  <a href="https://github.com"><img src="icons/icons8-github.svg" width=65 height=65></a>
 </div>
 
 <div align="center">
-  <a href="https://go.dev"><img src="icons/icons8-golang.svg" width=48 height=65></a>
+  <a href="https://go.dev"><img src="icons/icons8-golang.svg" width=65 height=65></a>
 </div>
 
 <h2 align="center">
