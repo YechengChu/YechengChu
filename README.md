@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center">
-  💻 MSc student at University of Manchester 📚 <br/>
+  💻 MSc student at University of Manchester 📚 <br><br/>
   <a href="mailto:szcyc002@163.com">
     ✉️ szcyc002@163.com ✉️
   </a>
@@ -56,18 +56,14 @@
 </h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=ACDemo&theme=buefy" />
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=particle-systems&theme=buefy" />
-  <br></br>
+<a href="https://yechengchu.github.io/ACDemo/"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=ACDemo&theme=buefy" /></a>
   
-</div>
+<a href="https://github.com/YechengChu/particle-systems"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=particle-systems&theme=buefy" /></a>
 
-<div align="center">
+<a href="https://github.com/YechengChu/practice-go-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=practice-go-project&theme=buefy" /></a>
   
-  <a href="https://github.com/YechengChu/practice-go-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=practice-go-project&theme=buefy" /></a>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=simple-Android&theme=buefy" />
+<a href="https://github.com/YechengChu/simple-Android"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=simple-Android&theme=buefy" /></a>
   
 </div>
 
