@@ -19,9 +19,7 @@
 <p align="center">
   💻 MSc student at University of Manchester 📚 <br/>
   <a href="mailto:szcyc002@163.com">
-    <img src="icons/envelope-solid.svg" width=16 height=16> 
-    szcyc002@163.com
-    <img src="icons/envelope-solid.svg" width=16 height=16>
+    ✉️ szcyc002@163.com ✉️
   </a>
 </p>
 
