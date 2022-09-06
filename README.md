@@ -19,7 +19,21 @@
 <p align="center">
   💻 MSc student at University of Manchester 📚 <br><br/>
   <a href="mailto:szcyc002@163.com">
-    ✉️ szcyc002@163.com ✉️
+    <img src="icons/icons8-mail.svg" width=25 height=25> 
+    szcyc002@163.com
+    <img src="icons/icons8-mail.svg" width=25 height=25>
+  </a>
+  <br></br>
+  <a href="https://twitter.com/Darren_Cyc">
+    <img src="icons/icons8-twitter.svg" width=25 height=25>
+    @Darren_Cyc
+    <img src="icons/icons8-twitter.svg" width=25 height=25>
+  </a>
+  <br></br>
+  <a href="https://instagram.com/wbszhc?igshid=YmMyMTA2M2Y=">
+    <img src="icons/icons8-instagram.svg" width=25 height=25>
+    @wbszhc
+    <img src="icons/icons8-instagram.svg" width=25 height=25>
   </a>
 </p>
 
