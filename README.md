@@ -69,7 +69,6 @@
   <a href="https://go.dev"><img src="icons/icons8-golang.svg" width=65 height=65></a>
 </div>
 
-<br></br>
 <div align="center"> 
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YechengChu&langs_count=5&hide=javascript,html,css,shell&layout=compact&theme=buefy" />
 </div>
