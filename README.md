@@ -106,3 +106,5 @@ Powered by [Anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/gi
 This README file is adapted from [Weilue's README](https://github.com/Redcxx/Redcxx)
 
 Icons are downloaded from [icons8](https://icons8.com)
+
+Gif is from [Giphy](https://giphy.com/stickers/)
