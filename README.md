@@ -9,7 +9,11 @@
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YechengChu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&line_height=30&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YechengChu&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&hide_title=true&line_height=30&theme=buefy" />
+</div>
+
+<div align="center">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=YechengChu&theme=buefy&hide_border=true&area=true&hide_title=true&bg_color=white"/>
 </div>
 
 <h1 align="center">
