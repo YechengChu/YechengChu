@@ -38,6 +38,10 @@
   <a href="https://instagram.com/wbszhc?igshid=YmMyMTA2M2Y=">
     <img src="icons/icons8-instagram.svg" width=55 height=55>
   </a>
+  
+  <a href="https://www.facebook.com/profile.php?id=100027674834226">
+    <img src="icons/icons8-facebook.svg" width=55 height=55>
+  </a>
 
 </p>
 
