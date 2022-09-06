@@ -65,7 +65,7 @@
 
 <div align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=practice-go-project&theme=buefy" />
+  <a href="https://github.com/YechengChu/practice-go-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=practice-go-project&theme=buefy" /></a>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=simple-Android&theme=buefy" />
   
