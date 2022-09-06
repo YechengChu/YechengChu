@@ -57,13 +57,13 @@
 
 <div align="center">
   
-<a href="https://yechengchu.github.io/ACDemo/"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=ACDemo&theme=buefy" /></a>
+<a href="https://yechengchu.github.io/ACDemo/"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=ACDemo&show_owner=true&theme=buefy" /></a>
   
-<a href="https://github.com/YechengChu/particle-systems"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=particle-systems&theme=buefy" /></a>
+<a href="https://github.com/YechengChu/particle-systems"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=particle-systems&show_owner=true&theme=buefy" /></a>
 
-<a href="https://github.com/YechengChu/practice-go-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=practice-go-project&theme=buefy" /></a>
+<a href="https://github.com/YechengChu/practice-go-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=practice-go-project&show_owner=true&theme=buefy" /></a>
   
-<a href="https://github.com/YechengChu/simple-Android"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=simple-Android&theme=buefy" /></a>
+<a href="https://github.com/YechengChu/simple-Android"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=simple-Android&show_owner=true&theme=buefy" /></a>
   
 </div>
 
