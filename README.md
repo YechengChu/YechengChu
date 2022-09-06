@@ -18,23 +18,23 @@
 
 <p align="center">
   💻 MSc student at University of Manchester 📚 <br><br/>
-  <img src="icons/icons8-mail.svg" width=30 height=30> 
+  
   <a href="mailto:szcyc002@163.com">
-    szcyc002@163.com
+    <img src="icons/icons8-mail.svg" width=50 height=50> 
   </a>
-  <img src="icons/icons8-mail.svg" width=30 height=30> 
-  <br></br>
-  <img src="icons/icons8-twitter.svg" width=30 height=30>
+  
+  <a href="https://www.linkedin.com/in/yecheng-chu-667013139">
+    <img src="icons/icons8-linkedin.svg" width=50 height=50>
+  </a>
+
   <a href="https://twitter.com/Darren_Cyc">
-    @Darren_Cyc
+    <img src="icons/icons8-twitter.svg" width=50 height=50>
   </a>
-  <img src="icons/icons8-twitter.svg" width=30 height=30>
-  <br></br>
-  <img src="icons/icons8-instagram.svg" width=30 height=30>
+
   <a href="https://instagram.com/wbszhc?igshid=YmMyMTA2M2Y=">
-    @wbszhc
+    <img src="icons/icons8-instagram.svg" width=50 height=50>
   </a>
-  <img src="icons/icons8-instagram.svg" width=30 height=30>
+
 </p>
 
 
