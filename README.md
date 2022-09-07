@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" width="300"/>
+    <a href="https://yechengchu.github.io"><img src="https://media.giphy.com/media/6FT3QE3AJMfwJDZBNr/giphy.gif" width="300"/></a>
 </div>
 
 <h1 align="center">
@@ -51,10 +51,6 @@
   
   <a href="https://www.facebook.com/profile.php?id=100027674834226">
     <img src="icons/icons8-facebook.svg" width=55 height=55>
-  </a>
-  
-  <a href="https://yechengchu.github.io">
-    <img src="icons/icons8-blog-64.png" width=55 height=55>
   </a>
 
 </p>
