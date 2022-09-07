@@ -25,8 +25,14 @@
 </h1>
 
 <p align="center">
-  💻 MSc student at the University of Manchester 📚 <br><br/>
-  
+  💻 MSc Computer Science student at the University of Manchester 📚
+</p>
+
+<div id="header" align="center">
+   <a href="https://www.manchester.ac.uk"><img src="https://media.giphy.com/media/7OQpC4XSFSNpuyCDNU/giphy.gif" width="170"/></a>
+</div>
+<br></br>
+<p align="center">
   <a href="mailto:szcyc002@163.com">
     <img src="icons/icons8-mail.svg" width=55 height=55> 
   </a>
