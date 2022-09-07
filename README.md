@@ -3,8 +3,7 @@
 </div>
 
 <h1 align="center">
-  <!-- Hello! I'm Yecheng Chu 😃 -->
-  <img src="icons/greeting.png" width="700"/>
+  Hello! I'm Yecheng Chu 😃
 </h1>
 
 
