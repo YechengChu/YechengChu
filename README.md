@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="center">
-  Hello! I'm Yecheng Chu 😃
+  <!-- Hello! I'm Yecheng Chu 😃 -->
+  <img src="icons/greeting.png" width="700"/>
 </h1>
 
 
@@ -116,5 +117,9 @@ Icons are downloaded from [icons8](https://icons8.com)
 GIFs from [Giphy](https://giphy.com/stickers/)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/7ah0382wGac1Qtv0f7/giphy.gif" width="300"/>
+  <a href="https://github.com/GloC99/GloC99"><img src="https://media.giphy.com/media/7ah0382wGac1Qtv0f7/giphy.gif" width="300"/></a>
 </div>
+
+<!--<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cnRAfgZ4GegyzqR1Yt/giphy.gif" width="200"/>
+</div>-->
