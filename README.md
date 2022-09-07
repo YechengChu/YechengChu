@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YechengChu&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&hide_title=true&line_height=30&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YechengChu&show_icons=true&hide_border=true&hide_title=true&line_height=30&theme=buefy" />
 </div>
 
 <div align="center">
