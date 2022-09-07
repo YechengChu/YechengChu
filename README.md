@@ -113,7 +113,7 @@ This README file is adapted from [Weilue's README](https://github.com/Redcxx/Red
 
 Icons are downloaded from [icons8](https://icons8.com)
 
-Gif is from [Giphy](https://giphy.com/stickers/)
+GIFs from [Giphy](https://giphy.com/stickers/)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7ah0382wGac1Qtv0f7/giphy.gif" width="300"/>
