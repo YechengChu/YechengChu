@@ -84,7 +84,8 @@
 </div>
 
 <div align="center"> 
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YechengChu&langs_count=7&hide=javascript,html,css,shell&layout=compact&theme=buefy" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YechengChu&hide=javascript,html,css,shell&layout=compact&theme=buefy" />
+  <!--&langs_count=7-->
 </div>
 
 <h2 align="center">
@@ -96,6 +97,8 @@
 <a href="https://yechengchu.github.io/ACDemo/"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=ACDemo&show_owner=true&theme=buefy" /></a>
   
 <a href="https://github.com/YechengChu/particle-systems"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=particle-systems&show_owner=true&theme=buefy" /></a>
+
+<a href="https://github.com/YechengChu/Question-Classifier"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=Question-Classifier&show_owner=true&theme=buefy" /></a>
 
 <a href="https://github.com/YechengChu/practice-go-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YechengChu&repo=practice-go-project&show_owner=true&theme=buefy" /></a>
   
