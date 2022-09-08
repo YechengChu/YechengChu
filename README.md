@@ -84,7 +84,7 @@
 </div>
 
 <div align="center"> 
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YechengChu&hide=javascript,html,css,shell&langs_count=8&layout=compact&theme=buefy" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YechengChu&hide=javascript,html,css,shell,jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" />
   <!--&langs_count=7&layout=compact-->
 </div>
 
