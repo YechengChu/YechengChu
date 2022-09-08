@@ -37,7 +37,7 @@
     <img src="icons/icons8-mail.svg" width=55 height=55> 
   </a>
   
-  <a href="https://www.linkedin.com/in/yecheng-chu-667013139">
+  <a href="https://www.linkedin.com/in/yecheng-chu">
     <img src="icons/icons8-linkedin.svg" width=55 height=55>
   </a>
 
@@ -45,11 +45,11 @@
     <img src="icons/icons8-twitter.svg" width=55 height=55>
   </a>
 
-  <a href="https://instagram.com/wbszhc?igshid=YmMyMTA2M2Y=">
+  <a href="https://instagram.com/wbszhc">
     <img src="icons/icons8-instagram.svg" width=55 height=55>
   </a>
   
-  <a href="https://www.facebook.com/profile.php?id=100027674834226">
+  <a href="https://www.facebook.com/chuyecheng">
     <img src="icons/icons8-facebook.svg" width=55 height=55>
   </a>
 
