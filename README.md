@@ -33,7 +33,7 @@
 </div>
 <br></br>
 <p align="center">
-  <a href="mailto:szcyc002@163.com">
+  <a href="mailto:szcyc27@163.com">
     <img src="icons/icons8-mail.svg" width=55 height=55> 
   </a>
   
