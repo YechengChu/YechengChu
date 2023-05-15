@@ -16,9 +16,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YechengChu&show_icons=true&hide_border=true&hide_title=true&line_height=30&theme=buefy" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=YechengChu&theme=buefy&hide_border=true&area=true&hide_title=true&bg_color=white"/>
-</div>
+</div> -->
 
 <h1 align="center">
   🙎‍♂️ About Me
