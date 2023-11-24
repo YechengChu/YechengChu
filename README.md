@@ -25,7 +25,7 @@
 </h1>
 
 <p align="center">
-  💻 MSc Computer Science student at the University of Manchester 📚
+  💻 Software Engineer greduated from the University of Manchester Department of Computer Science 📚
 </p>
 
 <div id="header" align="center">
