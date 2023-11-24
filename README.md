@@ -25,7 +25,7 @@
 </h1>
 
 <p align="center">
-  💻 Software Engineer graduated from the University of Manchester Department of Computer Science 📚
+  💻 Software Engineer graduated from The University of Manchester Department of Computer Science 📚
 </p>
 
 <div id="header" align="center">
