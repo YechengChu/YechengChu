@@ -104,7 +104,7 @@
 
 Powered by [Anuraghazra's GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-This README file is adapted from [Weilue's README](https://github.com/Redcxx/Redcxx)
+This README file is adapted from previous [Weilue's README](https://github.com/Redcxx/Redcxx)
 
 Icons are downloaded from [icons8](https://icons8.com)
 
